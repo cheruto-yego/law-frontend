@@ -13,7 +13,7 @@ function Home() {
         <div>
           <h1>Ettaka_Lyo</h1>
           <p>Your property is our priority</p>
-          <LinkContainer to="/chat">
+          <LinkContainer to="/login">
             <Button variant="success">
               Get Started <i className="fas fa-comments home-message-icon"></i>
             </Button>
